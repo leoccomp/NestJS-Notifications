@@ -1,6 +1,6 @@
-# Notifications Backend APP using:
+## Notifications Backend APP using:
 
-## NestJS
-## Prisma
-## Typescript
-## Jest
+### NestJS
+### Prisma
+### Typescript
+### Jest
